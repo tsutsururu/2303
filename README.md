@@ -526,6 +526,7 @@ K^N = a(p-1) + b (mod) を求めれば M^(K^N) = M^b (mod) となる。
 
 trie 木なるものを構築する方法で解けるらしいが、仕組みがよくわからないので一旦 pass
 
+# 0312
 
 # ☆ PANASONIC2020  String Equivalence  diff 1102
 
